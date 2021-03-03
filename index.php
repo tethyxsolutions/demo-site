@@ -9,7 +9,7 @@
 <title>Tethyxsolutions</title>
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700%7CRoboto:400,500,700,900%7CPlayfair+Display:400,700,700i,900,900i%7CWork+Sans:400,500,600,700" rel="stylesheet">
+<link href="#" rel="stylesheet">
 
 <link rel="stylesheet" href="assets/css/signatra-font.css">
 <link rel="icon" type="image/png" href="favicon.html">
@@ -195,7 +195,7 @@
 <li class="single-menu-item"><a href="cases.html"><i class="icon icon-direction"></i> Case</a></li>
 <li class="single-menu-item"><a href="case-details.html"><i class="icon icon-document"></i> Case Details</a></li>
 <li class="single-menu-item"><a href="portfolio.html"><i class="icon icon-image"></i> Portfolio</a></li>
-<li class="single-menu-item"><a href="portfolio-masonry.html"><i class="icon icon-image"></i> Portfolio
+<li class="single-menu-item"><a href="#"><i class="icon icon-image"></i> Portfolio
 Masnory</a></li>
 <li class="single-menu-item"><a href="pricing.html"><i class="icon icon-bullhorn"></i> Pricing</a></li>
 <li class="single-menu-item"><a href="contact.html"><i class="icon icon-envelope"></i> Contact</a></li>
@@ -882,7 +882,6 @@ X
 <div class="sidebar-logo-wraper">
 <a href="index-2.html">
 <!-- <img src="assets/images/tethyx-logo-3.png" alt="sidebar logo"> -->
-<p>Tethyxsolutions</p>
 </a>
 </div>
 <p>We are a team of software professionals currently working in reputed organizations and have 5+ years of experience in building user-friendly websites and apps</p>
